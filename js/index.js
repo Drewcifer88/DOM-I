@@ -65,13 +65,6 @@ const newNavItem22 = document.querySelector('nav');
 newNavItem2.innerText = 'Whose Idea Was This';
 newNavItem22.appendChild(newNavItem2);
 newNavItem2.style.color = 'green';
-// const newATag1 = document.createElement('a')
-// const mainNav = document.querySelector('nav')
-// newATag1.innerText = 'Reviews'
-// newATag1.href = '#'
-// mainNav.prepend(newATag1)
-// newATag1.style.color = 'green'
-
 
 
 const cta = document.querySelector('h1');
